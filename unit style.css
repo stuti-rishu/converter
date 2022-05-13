@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+#container{
+    width: 500px;
+    height: 400px;
+    margin: 20px;
+    padding:40px ;
+    border: 1px solid black;
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+
+}
+label{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.inpt{
+    width: 50%;
+    padding: 12px 20px;
+    margin: 25px;
+    box-sizing: border-box;
+}
+
+ #button{
+    margin: 30px 90px;
+    padding: 5px 15px;
+    border: none;
+    color: white;
+    width: 180px;
+    background-color: red;
+    font-size: 1.2em;
+    
+
+}
+#centi{
+    color: yellow;
+    font-size:2.5em ;
+    text-align: center;
+}
